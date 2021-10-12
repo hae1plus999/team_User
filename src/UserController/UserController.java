@@ -434,7 +434,7 @@ public class UserController { //고객관리 기능 클래스
         int i;
 
         System.out.println("********** 회원 정보 출력 시작 **********");
-
+        System.out.println("test");
         for (i = 0; i < workerUserList.size(); i++)
         {
             System.out.println(i + 1 + "번째 회원 정보 출력");
